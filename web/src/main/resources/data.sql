@@ -1,0 +1,1 @@
+Insert INTO customer(name) VALUES('Customer one')
